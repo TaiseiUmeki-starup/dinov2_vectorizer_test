@@ -11,3 +11,4 @@ from .cell_dino.chammi_cp import CHAMMI_CP
 from .cell_dino.chammi_hpa import CHAMMI_HPA
 from .cell_dino.chammi_wtc import CHAMMI_WTC
 from .masked_png import MaskedPNG
+from .custom_imagefolder import CustomImageFolder
